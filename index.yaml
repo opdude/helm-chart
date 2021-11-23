@@ -1,0 +1,27 @@
+apiVersion: v1
+entries:
+  nsq:
+  - apiVersion: v2
+    appVersion: 1.2.1
+    created: "2021-11-23T08:23:19.178286148Z"
+    description: A realtime distributed messaging platform
+    digest: fa03f45abfd46bc0f451086b8086e62e4d7617510b0bf1a76a5f22387e286211
+    home: https://github.com/beeinventor/charts/tree/master/beeinventor/nsq
+    icon: https://nsq.io/static/img/nsq_blue.png
+    keywords:
+    - nsq
+    - nsqd
+    - nsqlookupd
+    - nsqadmin
+    maintainers:
+    - email: benhu@beeinventor.com
+      name: BeeInventor
+    name: nsq
+    sources:
+    - https://github.com/beeinventor/charts/tree/master/beeinventor/nsq
+    - https://nsq.io/
+    type: application
+    urls:
+    - https://github.com/opdude/helm-chart/releases/download/nsq-1.2.1/nsq-1.2.1.tgz
+    version: 1.2.1
+generated: "2021-11-23T08:23:19.178359047Z"
